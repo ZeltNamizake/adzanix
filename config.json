@@ -1,0 +1,12 @@
+{
+  "timezone": "Asia/Jakarta",
+  "adzan_subuh": "audio/adzan_subuh.mp3",
+  "adzan_normal": "audio/adzan.mp3",
+  "pray_times": {
+   "fajr": "04:44",
+   "dhuhr": "11:53",
+   "asr": "16:13",
+   "maghrib": "17:52",
+   "isha": "19:02"
+ }
+}
