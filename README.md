@@ -25,7 +25,7 @@ Adzanix is a minimal, no-distraction prayer time reminder for Termux/Linux, writ
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/adzanix.git
+git clone https://github.com/zeltnamizake/adzanix
 cd adzanix
 ```
 
